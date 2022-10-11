@@ -1,5 +1,5 @@
 name: Failure building from source
-about: Use this template when reporting a build failure
+description: Use this template when reporting a build failure
 title: ''
 labels: ['build', 't:bug']
 assignees: ''
