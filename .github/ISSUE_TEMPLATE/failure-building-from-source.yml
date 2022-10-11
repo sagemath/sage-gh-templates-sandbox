@@ -1,8 +1,8 @@
 name: Failure building from source
 description: Use this template when reporting a build failure
-title: ''
+title: ""
 labels: ['build', 't:bug']
-assignees: ''
+assignees: ""
 body:
   - type: checkboxes
     attributes:
